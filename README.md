@@ -1,3 +1,4 @@
+Primero se crea nuestra
 ___Base de datos___
 CREATE DATABASE likeme;
 CREATE TABLE posts (id SERIAL, titulo VARCHAR(25), img VARCHAR(1000),
